@@ -1,5 +1,6 @@
 ### study-of-basic-gates
-
+### NAME: JAWAHAR BABU S
+### REF NO: 24004142
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -63,17 +64,21 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Screenshot 2024-11-17 090607](https://github.com/user-attachments/assets/74205202-ca36-4277-a2c1-09ed7021b8ce)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: RegisterNumber: 24004142
  
 **Logic symbol & Truthtable**
+![Screenshot 2024-11-17 101644](https://github.com/user-attachments/assets/8a431758-b829-4cd9-a07b-111f3a13dd32)
 
 **RTL realization Output:** 
+![Screenshot 2024-11-17 094627](https://github.com/user-attachments/assets/b9c8a2c5-5b3e-4416-9f9d-554619e32fb1)
 
 **RTL**
+![Screenshot 2024-11-17 093903](https://github.com/user-attachments/assets/2898415e-1061-4691-a332-819bfff68790)
 
 **Result:**
 
-
+To study and verify the truth table of logic gates in Quartus II using Verilog programming was successfull.
